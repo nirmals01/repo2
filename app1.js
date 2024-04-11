@@ -10,7 +10,7 @@ const user = {
 console.log(user);
 
 
-//object destructuring
+//object destructuring --
 
 const prod = {
     id: 100,
